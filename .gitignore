@@ -1,6 +1,6 @@
 /_build
-/cover
+/db
 /deps
+/*.ez
 erl_crash.dump
-*.ez
-*.beam
+/config/*.secret.exs
